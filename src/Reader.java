@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Reader {
-    private final String FILENAME = "estrada.txt";
+    private final String FILENAME = "entrada.txt";
     private final String PATH = System.getProperty("user.dir");
 
     public String getFILENAME() {
