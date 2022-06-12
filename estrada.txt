@@ -1,0 +1,4 @@
+nome_da_disciplina nome_do_professor período
+nome_da_disciplina nome_do_professor período
+nome_da_disciplina nome_do_professor período
+nome_da_disciplina nome_do_professor período
