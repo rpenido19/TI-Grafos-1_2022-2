@@ -1,3 +1,5 @@
+package trab_algoritmos_em_grafos;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
